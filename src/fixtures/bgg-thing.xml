@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="174430">
+    <thumbnail>https://cf.geekdo-images.com/sZYp_3BTDGjh2unaZfZmuA__thumb/img/pKxBMsGNZYMsLEKhf0n_0UlrMc0=/fit-in/200x150/filters:strip_icc()/pic2437871.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/sZYp_3BTDGjh2unaZfZmuA__original/img/F-7JTpn6m2J-qhcUBPxfJ0Xj2BY=/0x0/filters:format(jpeg)/pic2437871.jpg</image>
+    <name type="primary" sortindex="1" value="Gloomhaven" />
+    <name type="alternate" sortindex="1" value="Gloomhaven: First Edition" />
+    <description>Gloomhaven is a game of Euro-inspired tactical combat in a persistent world of shifting motives.</description>
+    <yearpublished value="2017" />
+    <minplayers value="1" />
+    <maxplayers value="4" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="523">
+      <results numplayers="1">
+        <result value="Best" numvotes="45" />
+        <result value="Recommended" numvotes="178" />
+        <result value="Not Recommended" numvotes="142" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="89" />
+        <result value="Recommended" numvotes="289" />
+        <result value="Not Recommended" numvotes="45" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="201" />
+        <result value="Recommended" numvotes="178" />
+        <result value="Not Recommended" numvotes="12" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="298" />
+        <result value="Recommended" numvotes="123" />
+        <result value="Not Recommended" numvotes="34" />
+      </results>
+      <results numplayers="4+">
+        <result value="Best" numvotes="2" />
+        <result value="Recommended" numvotes="5" />
+        <result value="Not Recommended" numvotes="267" />
+      </results>
+    </poll>
+    <playingtime value="120" />
+    <minplaytime value="60" />
+    <maxplaytime value="120" />
+    <minage value="14" />
+    <link type="boardgamecategory" id="1022" value="Adventure" />
+    <link type="boardgamecategory" id="1020" value="Exploration" />
+    <link type="boardgamecategory" id="1010" value="Fantasy" />
+    <link type="boardgamecategory" id="1046" value="Fighting" />
+    <link type="boardgamemechanic" id="2001" value="Action Queue" />
+    <link type="boardgamemechanic" id="2689" value="Action/Event" />
+    <link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+    <link type="boardgamemechanic" id="2676" value="Grid Movement" />
+    <link type="boardgamemechanic" id="2040" value="Hand Management" />
+    <link type="boardgamemechanic" id="2028" value="Modular Board" />
+    <link type="boardgamemechanic" id="2016" value="Simultaneous Action Selection" />
+    <link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="78234" />
+        <average value="8.73826" />
+        <bayesaverage value="8.47523" />
+        <stddev value="1.45123" />
+        <median value="0" />
+        <owned value="112456" />
+        <trading value="456" />
+        <wanting value="2345" />
+        <wishing value="12345" />
+        <numcomments value="23456" />
+        <numweights value="4567" />
+        <averageweight value="3.86" />
+      </ratings>
+    </statistics>
+  </item>
+  <item type="boardgame" id="266192">
+    <thumbnail>https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__thumb/img/JxfEW_SuCvdxpy_w38kAK-FYD_U=/fit-in/200x150/filters:strip_icc()/pic4458123.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__original/img/DR7181wU4sHT6gn6Q2FhLo-JNPo=/0x0/filters:format(jpeg)/pic4458123.jpg</image>
+    <name type="primary" sortindex="1" value="Wingspan" />
+    <description>Wingspan is a competitive, medium-weight, card-driven, engine-building board game.</description>
+    <yearpublished value="2019" />
+    <minplayers value="1" />
+    <maxplayers value="5" />
+    <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="612">
+      <results numplayers="1">
+        <result value="Best" numvotes="34" />
+        <result value="Recommended" numvotes="289" />
+        <result value="Not Recommended" numvotes="78" />
+      </results>
+      <results numplayers="2">
+        <result value="Best" numvotes="156" />
+        <result value="Recommended" numvotes="312" />
+        <result value="Not Recommended" numvotes="23" />
+      </results>
+      <results numplayers="3">
+        <result value="Best" numvotes="289" />
+        <result value="Recommended" numvotes="234" />
+        <result value="Not Recommended" numvotes="8" />
+      </results>
+      <results numplayers="4">
+        <result value="Best" numvotes="178" />
+        <result value="Recommended" numvotes="267" />
+        <result value="Not Recommended" numvotes="45" />
+      </results>
+      <results numplayers="5">
+        <result value="Best" numvotes="45" />
+        <result value="Recommended" numvotes="234" />
+        <result value="Not Recommended" numvotes="156" />
+      </results>
+      <results numplayers="5+">
+        <result value="Best" numvotes="1" />
+        <result value="Recommended" numvotes="3" />
+        <result value="Not Recommended" numvotes="412" />
+      </results>
+    </poll>
+    <playingtime value="70" />
+    <minplaytime value="40" />
+    <maxplaytime value="70" />
+    <minage value="10" />
+    <link type="boardgamecategory" id="1089" value="Animals" />
+    <link type="boardgamecategory" id="1002" value="Card Game" />
+    <link type="boardgamemechanic" id="2041" value="Card Drafting" />
+    <link type="boardgamemechanic" id="2664" value="Dice Rolling" />
+    <link type="boardgamemechanic" id="2048" value="End Game Bonuses" />
+    <link type="boardgamemechanic" id="2040" value="Hand Management" />
+    <link type="boardgamemechanic" id="2082" value="Worker Placement" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="98765" />
+        <average value="8.12345" />
+        <bayesaverage value="7.98765" />
+        <stddev value="1.23456" />
+        <median value="0" />
+        <owned value="145678" />
+        <trading value="567" />
+        <wanting value="1234" />
+        <wishing value="8765" />
+        <numcomments value="34567" />
+        <numweights value="5678" />
+        <averageweight value="2.45" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

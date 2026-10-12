@@ -1,0 +1,33 @@
+{
+  "name": "gamepoll",
+  "version": "1.0.0",
+  "description": "Discord bot for board game group polling",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsx watch src/index.ts",
+    "test": "vitest",
+    "deploy-commands": "tsx src/deploy-commands.ts"
+  },
+  "keywords": ["discord", "bot", "boardgames", "bgg"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "better-sqlite3": "^11.7.0",
+    "dotenv": "^16.4.7",
+    "fast-xml-parser": "^4.5.0"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.12",
+    "@types/node": "^22.10.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "vitest": "^2.1.8"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
