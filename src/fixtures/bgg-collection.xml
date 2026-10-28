@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items totalitems="3" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse" pubdate="Mon, 12 Oct 2026 12:00:00 +0000">
+  <item objecttype="thing" objectid="174430" subtype="boardgame" collid="12345">
+    <name sortindex="1">Gloomhaven</name>
+    <yearpublished>2017</yearpublished>
+    <image>https://cf.geekdo-images.com/sZYp_3BTDGjh2unaZfZmuA__original/img/F-7JTpn6m2J-qhcUBPxfJ0Xj2BY=/0x0/filters:format(jpeg)/pic2437871.jpg</image>
+    <thumbnail>https://cf.geekdo-images.com/sZYp_3BTDGjh2unaZfZmuA__thumb/img/pKxBMsGNZYMsLEKhf0n_0UlrMc0=/fit-in/200x150/filters:strip_icc()/pic2437871.jpg</thumbnail>
+    <status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0" preordered="0" lastmodified="2023-01-15 10:30:00" />
+    <numplays>5</numplays>
+  </item>
+  <item objecttype="thing" objectid="266192" subtype="boardgame" collid="12346">
+    <name sortindex="1">Wingspan</name>
+    <yearpublished>2019</yearpublished>
+    <image>https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__original/img/DR7181wU4sHT6gn6Q2FhLo-JNPo=/0x0/filters:format(jpeg)/pic4458123.jpg</image>
+    <thumbnail>https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__thumb/img/JxfEW_SuCvdxpy_w38kAK-FYD_U=/fit-in/200x150/filters:strip_icc()/pic4458123.jpg</thumbnail>
+    <status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0" preordered="0" lastmodified="2023-02-20 14:15:00" />
+    <numplays>12</numplays>
+  </item>
+  <item objecttype="thing" objectid="167791" subtype="boardgame" collid="12347">
+    <name sortindex="1">Terraforming Mars</name>
+    <yearpublished>2016</yearpublished>
+    <image>https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__original/img/BTJkFqxbb0cLDUC7LvZqOSg6KnU=/0x0/filters:format(jpeg)/pic3536616.jpg</image>
+    <thumbnail>https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__thumb/img/CfXdGzFO0j_VqN6ZXTzDn7RZxH0=/fit-in/200x150/filters:strip_icc()/pic3536616.jpg</thumbnail>
+    <status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0" preordered="0" lastmodified="2023-03-10 09:45:00" />
+    <numplays>8</numplays>
+  </item>
+</items>
